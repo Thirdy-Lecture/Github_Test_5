@@ -1,6 +1,6 @@
 # Python Variable
 
-name = "Anne"
+name = "Mary Jane Dayunot"
 age = 18
 is_student = True
 height = 5.7
