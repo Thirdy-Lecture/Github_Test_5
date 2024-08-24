@@ -1,9 +1,9 @@
 # Python Variable
 
-name = "ROel"
+name = "Anne"
 age = 18
 is_student = True
-height = 5.6
+height = 5.7
 
 print("Name:", name)
 print("Age:", age)
